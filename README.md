@@ -12,3 +12,5 @@
 
 
 * [opencv gpu](https://www.kdata.or.kr/info/info_04_view.html?field=&keyword=&type=techreport&page=5&dbnum=188453&mode=detail&type=techreport)
+
+* https://learnopencv.com/getting-started-opencv-cuda-module/
